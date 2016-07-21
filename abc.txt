@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello World 123 from Yahoo Sunnyvale
+=======
+Hello World from Yahoo Sunnyvale, USA
+>>>>>>> master
 
