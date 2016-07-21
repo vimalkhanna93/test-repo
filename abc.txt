@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-World Hello 123 from Yahoo Sunnyvale, USA 456
-=======
 World Hello 123 from Yahoo Sunnyvale, USA 123
->>>>>>> 3a049c6e76d014311d326ef10b2facaeedd4008f
